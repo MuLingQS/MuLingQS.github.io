@@ -2085,11 +2085,11 @@ pre > span.copy-code:hover {
         margin: 0 auto;
       }
     @font-face {
-      font-family: '三极拉钩体';
-      src: url('/media/fonts/三极拉钩体.ttf');
+      font-family: '三极泼墨体';
+      src: url('/media/fonts/三极泼墨体.ttf');
     }
     * {
-        font-family: '三极拉钩体';
+        font-family: '三极泼墨体';
     }
     .post-body {
       font-size: 16px !important
