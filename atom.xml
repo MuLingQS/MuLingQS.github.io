@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ucan.fun</id>
     <title>青山木林</title>
-    <updated>2022-03-16T15:10:51.237Z</updated>
+    <updated>2022-03-18T16:12:38.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ucan.fun"/>
     <link rel="self" href="https://ucan.fun/atom.xml"/>
@@ -10,6 +10,70 @@
     <logo>https://ucan.fun/images/avatar.png</logo>
     <icon>https://ucan.fun/favicon.ico</icon>
     <rights>All rights reserved 2022, 青山木林</rights>
+    <entry>
+        <title type="html"><![CDATA[英语零基础笔记2]]></title>
+        <id>https://ucan.fun/post/ying-yu-ling-ji-chu-bi-ji-2/</id>
+        <link href="https://ucan.fun/post/ying-yu-ling-ji-chu-bi-ji-2/">
+        </link>
+        <updated>2022-03-18T15:33:38.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="三宾语">三·宾语</h1>
+<pre><code>动作的对象或承受者
+    实义动词：
+        1·及物动词：后跟对象或承受者，也就是宾语
+        2·不及物动词
+
+能做主语的词都能做宾语
+
+代词需要分为主格宾格，宾语只能用宾格
+
+句子作宾语，叫宾语从句
+
+人称代词的宾格：me我，you你/你们，her她，him他，us我们，it它，them他/她/它们
+
+双宾动词：有些及物动词后跟两个宾语
+    1、间接宾语（人）
+    2、直接宾语（物）
+    双宾动词+1+2    PS:I gave her a book.我给她一本书
+                “her”是间接宾语“book”是直接宾语
+
+常见的双宾动词：
+    give/buy买，lend借出，send寄、送，teach教，
+    tell告诉，show展示，sing唱，write写，offer提供
+    leave留下，prepare准备，get使...得
+</code></pre>
+<h2 id="四-宾语补足语宾补">四、宾语补足语（宾补）</h2>
+<pre><code>有些动词加宾语句意不完整，这时需要一个词语补充宾语意思
+常见有：
+    make让、使，let/get让，have/让，使，find发现，
+    call叫、称为，see看见，keep保持，put放
+
+PS:I make you.我让你，句意不完整
+    I make you happy.“happy”宾补，与主语无关，只与宾语“you”有关
+
+能做宾补的词语：
+    形容词，名词，数词，动词不定式，动名词，副词，分词，介词短语，句子
+
+与双宾的区别：
+    双宾一人一物，宾补表示同一人或事物的补充说明
+</code></pre>
+<h3 id="五-状语">五、状语</h3>
+<pre><code>说明谓语的情况，只和谓语有关
+
+英语状语一般在句子后面，中文在中间
+    PS:我在东北玩泥巴。“在东北”是状语，“玩”是谓语
+
+状语分为：
+    时间/地点/方式/原因/目的状语等等
+    “在东北”就是地点状语
+
+状语一般由副词，介词短语充当
+    “In Beijing”地点状语，介词短语，“在北京”
+PS:I teach English in Beijing.“in Beijing”修饰&quot;teach&quot;
+
+英语一句话可以出现多个状语
+PS:I teach English in Beijing now.“in Beijing”地点状语“now”时间状语</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英语零基础笔记1]]></title>
         <id>https://ucan.fun/post/ying-yu-ling-ji-chu-bi-ji-1/</id>
