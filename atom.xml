@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ucan.fun</id>
     <title>青山木林</title>
-    <updated>2022-03-19T09:07:42.189Z</updated>
+    <updated>2022-03-19T13:22:40.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ucan.fun"/>
     <link rel="self" href="https://ucan.fun/atom.xml"/>
@@ -10,6 +10,61 @@
     <logo>https://ucan.fun/images/avatar.png</logo>
     <icon>https://ucan.fun/favicon.ico</icon>
     <rights>All rights reserved 2022, 青山木林</rights>
+    <entry>
+        <title type="html"><![CDATA[英语零基础笔记（句子成分3）]]></title>
+        <id>https://ucan.fun/post/ying-yu-ling-ji-chu-bi-ji-ju-zi-cheng-fen-3/</id>
+        <link href="https://ucan.fun/post/ying-yu-ling-ji-chu-bi-ji-ju-zi-cheng-fen-3/">
+        </link>
+        <updated>2022-03-19T12:45:55.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="六-定语">六、定语</h2>
+<blockquote>
+<p>修饰或限定名词的词语，只和名词有关，哪里有名词，哪里就有定语。<br>
+PS:你去帮我买十个苹果。<strong>定语“十个”</strong> 修饰 <strong>名词“苹果”</strong></p>
+</blockquote>
+<h3 id="普通名词才能带定语一般情况下专有名词不能带除特殊情况">普通名词才能带定语，一般情况下专有名词不能带，除特殊情况。</h3>
+<h3 id="1-前置定语">1、前置定语</h3>
+<blockquote>
+<p>形容词性物主代词（你的我的她他它的），形容词，名词所有格，名词，量词，数词，指示代词。</p>
+</blockquote>
+<h3 id="2-后置定语">2、后置定语</h3>
+<blockquote>
+<p>介词短语，名词所有格（of+名词），动名词短语，动词不定式短语，句子。<br>
+还有在不定代词后修饰不定代词的词语也是后置定语</p>
+</blockquote>
+<h3 id="同一个名词可以跟多个定语">同一个名词可以跟多个定语</h3>
+<blockquote>
+<p>PS:Two beautiful girls.“two”“beautiful”</p>
+</blockquote>
+<h2 id="七-同位语">七、同位语</h2>
+<blockquote>
+<p>两个不同的词语都表示同一事物或人，起到强调补充说明的作用。<br>
+PS:My father,the far man,is drinking.我爸爸，那个胖男人，正在喝酒。<br>
+①“My father”和②“the far man”指同一个人，所以②是①的同位语</p>
+</blockquote>
+<h2 id="八-五个基本句型">八、五个基本句型</h2>
+<pre><code>1、主+谓（不及物）+状（表示动作）
+PS:I work every day.我每天工作“work”不及物动词作谓语“every day”时间状语
+
+2、主+be（系）+表+状（表示状态）
+PS:She is rich now.她现在很富有
+
+3、主+谓（及物）+宾+状（表示动作）
+PS:I read English every morning.我每天早上读英语
+
+4、主+谓（双宾动词）+双宾语+状（表示动作）
+PS:I gave her a book yesterday.
+
+5、主+谓（少数特定及物动词）+宾+宾补+状（表示动作）
+PS:I made her happy yesterday.
+</code></pre>
+<p>###总结分成两种类型</p>
+<blockquote>
+<p>状态型：主+be（系）+表+状<br>
+动作性：主+谓+宾+状<br>
+先分清动作和状态的句子，再选择句型。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英语零基础笔记（句子成分2）]]></title>
         <id>https://ucan.fun/post/ying-yu-ling-ji-chu-bi-ji-2/</id>
