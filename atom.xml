@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ucan.fun</id>
     <title>青山木林</title>
-    <updated>2022-03-27T09:29:46.315Z</updated>
+    <updated>2022-04-08T12:43:06.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ucan.fun"/>
     <link rel="self" href="https://ucan.fun/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://ucan.fun/images/avatar.png</logo>
     <icon>https://ucan.fun/favicon.ico</icon>
     <rights>All rights reserved 2022, 青山木林</rights>
+    <entry>
+        <title type="html"><![CDATA[暂停更新（时间不够）]]></title>
+        <id>https://ucan.fun/post/zan-ting-geng-xin-shi-jian-bu-gou/</id>
+        <link href="https://ucan.fun/post/zan-ting-geng-xin-shi-jian-bu-gou/">
+        </link>
+        <updated>2022-04-08T12:41:39.000Z</updated>
+        <content type="html"><![CDATA[<p>暂停更新。。。啥时候我把5500单词记完了就恢复更新了hhh<br>
+😭😭😭</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名词1]]></title>
         <id>https://ucan.fun/post/ming-ci-1/</id>
